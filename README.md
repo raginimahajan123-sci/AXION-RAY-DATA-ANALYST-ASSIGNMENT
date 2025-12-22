@@ -70,13 +70,14 @@ The data required extensive preprocessing before meaningful analysis could be pe
 ---
 
 ## 📊 Visualizations
-> *(Visuals will be added here)*
+<img width="1014" height="610" alt="box-plot-body-style" src="https://github.com/user-attachments/assets/d8328fee-38bd-4401-bc30-822e0bbf47e7" />
 
 Planned visual outputs include:
 - Failure frequency by system and domain
 - Distribution plots of failure condition tags
 - Bar charts highlighting top recurring issues
 - Trend-based summaries for reporting
+
 
 ---
 
@@ -93,11 +94,6 @@ Planned visual outputs include:
 2. Install required Python libraries  
 3. Open the Jupyter Notebook  
 4. Run cells sequentially to reproduce the analysis  
-
----
-
-## 📬 Contact
-If you’d like to discuss this project or explore how my skills fit your team, feel free to connect with me.
 
 ---
 
