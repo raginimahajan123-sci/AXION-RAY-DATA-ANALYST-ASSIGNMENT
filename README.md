@@ -70,8 +70,7 @@ The data required extensive preprocessing before meaningful analysis could be pe
 ---
 
 ## 📊 Visualizations
-Image 1
-<img width="1014" height="610" alt="box-plot-body-style" src="https://github.com/user-attachments/assets/6491a339-ce38-40f4-a7e4-ca701f5b7fa8" />
+![Image1](box-plot-body-style.png)
 
 
 Planned visual outputs include:
