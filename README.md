@@ -70,7 +70,8 @@ The data required extensive preprocessing before meaningful analysis could be pe
 ---
 
 ## 📊 Visualizations
-![Image1](box-plot-body-style.png)
+Visual 1:
+https://github.com/raginimahajan123-sci/automotive-parts-analysis-python/blob/main/box-plot-body-style.png
 
 
 Planned visual outputs include:
