@@ -70,7 +70,9 @@ The data required extensive preprocessing before meaningful analysis could be pe
 ---
 
 ## 📊 Visualizations
-<img width="1014" height="610" alt="box-plot-body-style" src="https://github.com/user-attachments/assets/d8328fee-38bd-4401-bc30-822e0bbf47e7" />
+Image 1
+<img width="1014" height="610" alt="box-plot-body-style" src="https://github.com/user-attachments/assets/6491a339-ce38-40f4-a7e4-ca701f5b7fa8" />
+
 
 Planned visual outputs include:
 - Failure frequency by system and domain
